@@ -4,7 +4,7 @@
 - 🌱 I’m currently working as software engineer and I'm an entrepreneur too...
 - 💞️ I’m looking to collaborate on nodeJs projects, VueJs front-end
 - 📫 How to reach me?
-- :email: you can email me: ziggy@devhipsters.co.za
+- :email: you can email me: nkhatho@devnoir.co
 
 
 <!---
